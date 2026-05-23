@@ -23,3 +23,9 @@ Soros
 Howard Marks
 Naval
 Ray Dalio
+
+
+使用方式
+将此目录放入 .claude/skills/mental-models-engine/，Claude Code 会自动识别。
+
+触发词：查理·芒格 芒格 芒格视角
